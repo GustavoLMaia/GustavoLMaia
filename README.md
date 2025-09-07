@@ -35,7 +35,7 @@ My expertise is centered on intelligent systems, custom hardware, and practical 
 
 This is the toolkit I use to turn ideas into reality.
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,powerbi,powerapps,powershell,excel" alt="AI, Data & Automation Skills" />
   <br>
   <img src="https://skillicons.dev/icons?i=raspberrypi,git,docker,html,css,js" alt="Hardware & General Tech Skills" />
